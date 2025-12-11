@@ -2,7 +2,7 @@
   "name": "doodlespace",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://codewithbotina.github.io/DoodleSpace",
+  "homepage": "https://CodeWithBotinaOficial.github.io/DoodleSpace",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

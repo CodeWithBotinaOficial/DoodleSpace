@@ -4,7 +4,7 @@ DoodleSpace is a responsive canvas-based whiteboard built with **React + Vite + 
 
 ## Live demo
 
-https://codewithbotina.github.io/DoodleSpace
+https://CodeWithBotinaOficial.github.io/DoodleSpace
 
 ## Features
 
