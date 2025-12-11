@@ -28,7 +28,7 @@ https://CodeWithBotinaOficial.github.io/DoodleSpace
 ## Setup
 
 ```bash
-git clone https://github.com/CodeWithBotina/DoodleSpace.git
+git clone https://github.com/CodeWithBotinaOficial/DoodleSpace.git
 cd DoodleSpace
 npm install
 npm run dev
